@@ -71,6 +71,8 @@ public class JavaStringsArraysDemo {
         /*for (int i : intArray) {
             System.out.println(i);
         }*/
+        
+        //Тестовое изменение
     }
     
 }
